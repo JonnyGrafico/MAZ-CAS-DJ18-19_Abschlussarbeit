@@ -9,6 +9,8 @@ In Zürich stehen seit Jahren tausende Quadratmeter Büroflächen leer. Zudem wi
 https://www.jonny-tells-a-story.com
 Die Texte auf der Website sind zum Teil aus Artikeln des Tages-Anzeigers, der NZZ, des SRFs und des Blicks zusammengetragen.
 
+-------------
+
 **In der Repo zu finden sind fünf Notebooks zu:**
 1. Gewerbe Leerflächen Stadt Zürich
 2. Leerwohnungen Stadt Zürich
@@ -24,7 +26,8 @@ Die Texte auf der Website sind zum Teil aus Artikeln des Tages-Anzeigers, der NZ
 
 
 **Aufwand und Ertrag**
-Die Aufbereitung der Daten in Pandas hat viel Zeit in Anspruch genommen. Fehlermeldungen analysieren, nach Lösungen googlen, diese anwenden und wieder mit neuen "Errors" konfrontiert sein, erforderte ein relativ hohes Frustpotenzial. Mit der längerfristigen Anwendung des Tools hat sich die "Ungelenkigkeit" Fehler zu produzieren beim Coden aber verbessert. :-)<br>
+Die Aufbereitung der Daten in Pandas hat viel Zeit in Anspruch genommen. Fehlermeldungen analysieren, nach Lösungen googlen, diese anwenden und wieder mit neuen "Errors" konfrontiert sein, erforderte ein relativ hohes Frustpotenzial. Mit der längerfristigen Anwendung des Tools hat sich die "Ungelenkigkeit" Fehler zu produzieren beim Coden aber verbessert. :-)
+
 Der weiteren Recherche zur Story, wie Experten befragen, blieb daher wenig Zeit übrig. Die Daten und Visualisierungen sind aber vorhanden, sodass daraus ein Artikel publiziert werden kann. 
 
 
