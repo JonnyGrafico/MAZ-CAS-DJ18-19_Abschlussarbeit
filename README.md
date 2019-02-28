@@ -12,19 +12,19 @@ https://www.jonny-tells-a-story.com
 Die Texte auf der Website sind zum Teil aus Artikeln des Tages-Anzeigers, der NZZ, des SRFs und des Blicks zusammengetragen.
 <br>
 <br>
-**In der Repo zu finden sind fünf Notebooks zu:**<br>
+**In der Repo zu finden sind fünf Notebooks zu:**
 1. Gewerbe Leerflächen Stadt Zürich
 2. Leerwohnungen Stadt Zürich
 3. Wohnbevölkerung Stadt Zürich
 4. Bauprojekte im Bau
 5. Bauprojekte neu bewilligt
 <br>
-**Die Code-Dokumentation besteht aus folgenden Elementen:**<br>
+**Die Code-Dokumentation besteht aus folgenden Elementen:**
 - Datenreinigung
 - Code und Dokumentation
 - Analyse und Visualisierungen
 <br>
-**Aufwand und Ertrag**<br>
+**Aufwand und Ertrag**
 Die Aufbereitung der Daten in Pandas hat viel Zeit in Anspruch genommen. Fehlermeldungen analysieren, nach Lösungen googlen, diese anwenden und wieder mit neuen "Errors" konfrontiert sein, erforderte ein relativ hohes Frustpotenzial. Mit der längerfristigen Anwendung des Tools hat sich die "Ungelenkigkeit" Fehler zu produzieren beim Coden aber verbessert. :-)<br>
 Der weiteren Recherche zur Story, wie Experten befragen, blieb daher wenig Zeit übrig. Die Daten und Visualisierungen sind aber vorhanden, sodass daraus ein Artikel publiziert werden kann. 
 <br>
@@ -41,8 +41,8 @@ https://www.stadt-zuerich.ch/prd/de/index/statistik/themen/bauen-wohnen/leerwohn
 Bevölkerung<br>
 https://www.stadt-zuerich.ch/prd/de/index/statistik/themen/bevoelkerung/daten.html#bestand
 
-**Quelle aller Daten:**<br>
-Statistik Stadt Zürich<br>
+**Quelle aller Daten:**
+Statistik Stadt Zürich
 <br>
 <br>
 -------------
