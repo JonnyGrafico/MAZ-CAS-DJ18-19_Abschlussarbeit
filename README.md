@@ -51,4 +51,4 @@ https://www.stadt-zuerich.ch/prd/de/index/statistik/themen/bevoelkerung/daten.ht
 Statistik Stadt Zürich
 
 -------------
-**Fragen und Kontakt:** juerg.candrian@tamedia.ch
+**Fragen und Kontakt:** juerg.candrian@bluewin.ch
