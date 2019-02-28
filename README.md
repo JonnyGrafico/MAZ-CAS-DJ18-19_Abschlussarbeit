@@ -7,7 +7,11 @@ In Zürich stehen seit Jahren tausende Quadratmeter Büroflächen leer. Zudem wi
 
 ### Link zur Story
 https://www.jonny-tells-a-story.com
+<<<<<<< HEAD
 Die Texte auf der Website sind zum Teil aus Artikeln des Tages-Anzeigers, der NZZ, des SRFs und des Blicks zusammengetragen. Weitere Quellen sind die Studie "Schweizer Immobilienmarkt 2018" der Credit Suisse und die Studie "Büromarkt Schweiz 2019” von Jones Long LaSalle.
+=======
+Die Texte auf der Website sind zum Teil aus Artikeln des Tages-Anzeigers, der NZZ, des SRFs und des Blicks zusammengetragen.
+>>>>>>> 283f8e68b36389a308115aad2a878648c88999b0
 
 -------------
 
