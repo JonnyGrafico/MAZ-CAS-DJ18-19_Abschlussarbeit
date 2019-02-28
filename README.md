@@ -43,7 +43,7 @@ Bevölkerung
 https://www.stadt-zuerich.ch/prd/de/index/statistik/themen/bevoelkerung/daten.html#bestand
 
 **Quelle aller Daten:**
-Statisik Stadt Zürich
+Statistik Stadt Zürich
 
 
 
